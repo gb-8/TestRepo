@@ -1,5 +1,5 @@
 Here is some important text I want to keep.
 
-Here is a password I'll want to redact: other-secret-password-must-stay-secret
+Here is a password I'll want to redact: <redacted>
 
 Here is another edit.
